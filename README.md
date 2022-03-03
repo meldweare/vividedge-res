@@ -1,0 +1,2 @@
+# vividedge-res
+Static files
